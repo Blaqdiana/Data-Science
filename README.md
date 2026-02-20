@@ -69,8 +69,8 @@ I am actively working to expand my portfolio with projects focusing on:
 
 ## Get in Touch  
 Feel free to connect with me for collaborations, project discussions, or any other inquiries!  
-- **Email:** [Your Email Address]  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Portfolio Website:** [Your Portfolio Link]  
+- **Email:** dianaifunanya@gmail.com 
+- **LinkedIn:** [LinkedIn Profile](http://www.linkedin.com/in/diana-ofili-1685b7258)  
+- **Portfolio Website:** [DataCamp Portfolio](https://www.datacamp.com/portfolio/dianaifunanya)   
 
 ---  
